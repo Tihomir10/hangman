@@ -1,0 +1,20 @@
+--- !ruby/object:Hangman
+array:
+- chatoyancy
+rand_word: chatoyancy
+ar:
+- c
+- _
+- _
+- _
+- _
+- y
+- _
+- _
+- c
+- y
+used_letters:
+- c
+- y
+num_of_guesses: 2
+letter: save

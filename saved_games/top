@@ -1,0 +1,22 @@
+--- !ruby/object:Hangman
+array:
+- singspiel
+rand_word: singspiel
+ar:
+- s
+- i
+- _
+- _
+- s
+- _
+- i
+- e
+- l
+used_letters:
+- e
+- a
+- i
+- l
+- s
+num_of_guesses: 5
+letter: save
